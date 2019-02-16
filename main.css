@@ -1,5 +1,9 @@
 .column {
+    float: left;
     width: 30%;
+    height: 50px;
+    border: solid 1px #000;
+    margin: 10px 0;
+    background-color: #bada55;
+    border-radius: 5px;
 }
-
-
